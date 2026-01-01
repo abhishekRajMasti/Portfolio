@@ -37,9 +37,9 @@ View the live portfolio at: [Your GitHub Pages URL]
 ## 📞 Contact
 
 - **Email**: abhishekmasti2002@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Phone**: +91 9019808619
+- **LinkedIn**: https://www.linkedin.com/in/abhishek-masti-00a3751b0/
+- **GitHub**: https://github.com/abhishekRajMasti
+- - **Phone**: +91 9019808619
 
 ## 📝 License
 
